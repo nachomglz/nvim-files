@@ -43,8 +43,8 @@ return {
         "pyright",
         "dockerls",
         "docker_compose_language_service",
-        "gopls",
-        "rust_analyzer",
+        -- "gopls",
+        -- "rust_analyzer",
       },
     })
 
